@@ -7,6 +7,6 @@
 
 	</select>
 	<button>Inscribir</button>
-	
+	<h1>probando con otra rama</h1>
 
 </form>
