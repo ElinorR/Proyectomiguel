@@ -1,0 +1,1 @@
+Tu curso es : {{$cursos}}
